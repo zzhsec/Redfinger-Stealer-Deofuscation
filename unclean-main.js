@@ -1,5 +1,5 @@
 config = {
-    'webhook': 'https://discord.com/api/webhooks/992290158923751504UQZ0f_vTf7Grm3Tu1uL17QWulpVyJUR9AuKd6sGStjB5CuETopRS8sSSV9i7O5S7thYe',
+    'webhook': 'https://discord.com/api/webhooks/XXXX',
     'embed-color': 0x36393f,
     'emojis': {
         'nitroType': _0x290dd3(0xe9),
